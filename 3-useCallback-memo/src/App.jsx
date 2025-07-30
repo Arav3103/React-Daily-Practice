@@ -7,7 +7,6 @@ function App() {
     <>
       <h1>useCallback + React.memo</h1>
       <Parent />
-      <Child />
     </>
   );
 }
