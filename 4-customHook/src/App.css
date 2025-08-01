@@ -1,0 +1,13 @@
+.dark {
+  background-color: black;
+  color: grey;
+}
+
+.light {
+  background-color: white;
+  color: black;
+}
+
+* {
+  padding: 1rem;
+}

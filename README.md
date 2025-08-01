@@ -5,3 +5,4 @@
 | July 27    | Context API      | context-api-july-27    |
 | July 28    | Event Bubbling   | event-bubbling-july-28 |
 | July 29    | useCallback Hook | useCallback-july-29    |
+| Aug  01    | useToggle Hook   | customHook-aug-01      |
